@@ -1,0 +1,2886 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="5738">
+<author>barril1</author>
+<date>2011-10-05T02:02:37.483131Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment2.2/src/CSAir/EventHandler.py</path>
+<path
+   action="M">/barril1/Assignment2.2/src/CSAir/test.json</path>
+<path
+   action="M">/barril1/Assignment2.2/src/CSAir/EventHandler.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/src/CSAir/Commands.pyc</path>
+</paths>
+<msg>Final</msg>
+</logentry>
+<logentry
+   revision="5735">
+<author>barril1</author>
+<date>2011-10-05T01:59:53.071842Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/scripts/make_docs.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/README.rst</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/CSAirUI.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/test.json</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Graph.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Commands.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/__init__.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/MANIFEST.in</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_decode.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/City.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_pass1.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/City.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Flight.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/setup.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/EventHandler.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/map_data.json</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/__init__.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_errors.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/jsonFile.txt</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Commands.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Graph.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_indent.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/encoder.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/.project</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_encode_for_html.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/ordered_dict.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/.pydevproject</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Client.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/simplejson/tests</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/EventHandler.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Airport.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/scripts</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/__init__.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_decimal.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Airport.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_check_circular.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/decoder.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/decoder.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_recursion.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/AllTests.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_fail.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/_speedups.c</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/conf.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/index.rst</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_unicode.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_encode_basestring_ascii.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_speedups.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_pass3.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/simplejson</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/CHANGES.txt</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_namedtuple.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/__init__.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/cmi_hub.json</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_dump.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_float.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/LICENSE.txt</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/AllTests.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_scanstring.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tool.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/encoder.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson-2.2.1/PKG-INFO</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_separators.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_default.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/ordered_dict.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/scanner.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_pass2.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Flight.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/tests/test_tuple.py</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/scanner.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/Client.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/src/CSAir/simplejson/__init__.pyc</path>
+</paths>
+<msg>Final commit of MP2.2</msg>
+</logentry>
+<logentry
+   revision="5734">
+<author>barril1</author>
+<date>2011-10-05T01:59:26.136541Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment2.2</path>
+</paths>
+<msg>Share project "Assignment2.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="5733">
+<author>barril1</author>
+<date>2011-10-05T01:58:05.636414Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment2.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="5730">
+<author>barril1</author>
+<date>2011-10-05T01:55:49.440454Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/City.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/AllTests.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Flight.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Airport.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Commands.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.pyc</path>
+</paths>
+<msg>Added tests and comments.</msg>
+</logentry>
+<logentry
+   revision="5719">
+<author>barril1</author>
+<date>2011-10-05T00:35:28.639672Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Client.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Airport.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/test.json</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Client.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Commands.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/cmi_hub.json</path>
+</paths>
+<msg>Implemented everything.</msg>
+</logentry>
+<logentry
+   revision="5608">
+<author>barril1</author>
+<date>2011-10-04T05:45:15.392968Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.pyc</path>
+</paths>
+<msg>Implemented some statistics.</msg>
+</logentry>
+<logentry
+   revision="5603">
+<author>barril1</author>
+<date>2011-10-04T04:25:21.618999Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/decoder.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/test.json</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Commands.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/encoder.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/City.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Flight.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Client.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/scanner.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Airport.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Flight.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Client.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/__init__.pyc</path>
+</paths>
+<msg>Implemented Dijkstra's Algorithm.</msg>
+</logentry>
+<logentry
+   revision="5566">
+<author>barril1</author>
+<date>2011-10-03T23:45:07.772807Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/City.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Flight.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Client.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Airport.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Flight.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/test.json</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Client.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Commands.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.pyc</path>
+</paths>
+<msg>Began work on Dijkstra's Algorithm.</msg>
+</logentry>
+<logentry
+   revision="5385">
+<author>barril1</author>
+<date>2011-10-01T06:21:36.867458Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/AllTests.py</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/GetStatsCommand.py</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/GetStatsCommand.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/Commands.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Graph.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/City.py</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/ListCitiesCommand.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/City.pyc</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/GetMapCommand.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Flight.py</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/Command.py</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/ListCitiesCommand.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Client.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.py</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/GetMapCommand.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/Airport.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Flight.pyc</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/QuitCommand.py</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/Client.pyc</path>
+<path
+   action="M">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.pyc</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/GetCityInfoCommand.py</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/QuitCommand.pyc</path>
+<path
+   action="D">/barril1/Assignment2.2/trunk/src/CSAir/GetCityInfoCommand.pyc</path>
+</paths>
+<msg>Added edit network functionality.</msg>
+</logentry>
+<logentry
+   revision="5383">
+<author>barril1</author>
+<date>2011-10-01T01:17:10.249548Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/LICENSE.txt</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/scripts/make_docs.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/.project</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/encoder.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_default.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/simplejson</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/setup.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_namedtuple.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/__init__.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/map_data.json</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/AllTests.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/decoder.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_recursion.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_scanstring.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/Graph.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/_speedups.c</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/Graph.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/MANIFEST.in</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_separators.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/index.rst</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/City.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_pass3.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/Client.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/ListCitiesCommand.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/GetMapCommand.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/GetCityInfoCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/__init__.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/decoder.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_float.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/README.rst</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_fail.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tool.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/jsonFile.txt</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_decode.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/City.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/ordered_dict.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_encode_for_html.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_speedups.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_pass2.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/GetMapCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_tuple.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/Command.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/scanner.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/scripts</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/Client.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_decimal.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_dump.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/GetStatsCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/CSAirUI.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/__init__.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_errors.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/GetStatsCommand.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/encoder.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/PKG-INFO</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_indent.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/conf.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_encode_basestring_ascii.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_unicode.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/ListCitiesCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_pass1.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/scanner.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/ordered_dict.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/.pydevproject</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/Flight.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/EventHandler.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson-2.2.1/CHANGES.txt</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/Flight.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/QuitCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/__init__.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/QuitCommand.pyc</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/simplejson/tests/test_check_circular.py</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk/src/CSAir/GetCityInfoCommand.pyc</path>
+</paths>
+<msg>First commit of Assignment2.2.</msg>
+</logentry>
+<logentry
+   revision="5382">
+<author>barril1</author>
+<date>2011-10-01T01:16:40.064179Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment2.2/tags</path>
+<path
+   action="A">/barril1/Assignment2.2</path>
+<path
+   action="A">/barril1/Assignment2.2/trunk</path>
+<path
+   action="A">/barril1/Assignment2.2/branches</path>
+</paths>
+<msg>Share project "Assignment2.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="5355">
+<author>barril1</author>
+<date>2011-09-30T04:44:30.590316Z</date>
+<paths>
+<path
+   action="A">/barril1/docauer2/trunk/src/graphClient.py</path>
+<path
+   action="A">/barril1/docauer2/trunk/src/graph.py</path>
+<path
+   action="A">/barril1/docauer2/trunk/src/tests.py</path>
+<path
+   action="A">/barril1/docauer2/trunk/.project</path>
+<path
+   action="A">/barril1/docauer2/trunk/src/commandObjects.py</path>
+<path
+   action="A">/barril1/docauer2/trunk/src</path>
+<path
+   action="A">/barril1/docauer2/trunk/src/invoker.py</path>
+<path
+   action="A">/barril1/docauer2/trunk/.pydevproject</path>
+<path
+   action="A">/barril1/docauer2/trunk/src/command.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5354">
+<author>barril1</author>
+<date>2011-09-30T04:44:22.821464Z</date>
+<paths>
+<path
+   action="A">/barril1/docauer2</path>
+<path
+   action="A">/barril1/docauer2/trunk</path>
+<path
+   action="A">/barril1/docauer2/branches</path>
+<path
+   action="A">/barril1/docauer2/tags</path>
+</paths>
+<msg>Share project "docauer2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="5324">
+<author>barril1</author>
+<date>2011-09-29T00:08:01.547377Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_encode_basestring_ascii.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_unicode.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_pass1.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/scripts/make_docs.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/GetStatsCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/scanner.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/README.rst</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_pass3.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/CSAirUI.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/Graph.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/MANIFEST.in</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/__init__.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/conf.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_check_circular.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/index.rst</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/City.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/decoder.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_float.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/ListCitiesCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_fail.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/CHANGES.txt</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tool.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/setup.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/QuitCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/map_data.json</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_decode.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_default.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/LICENSE.txt</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/AllTests.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/ordered_dict.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_encode_for_html.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_pass2.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_speedups.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_tuple.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/__init__.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/jsonFile.txt</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/__init__.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_decimal.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_namedtuple.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/PKG-INFO</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/.project</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_dump.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/GetMapCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/.pydevproject</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/Flight.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/Client.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/Command.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_recursion.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/EventHandler.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_scanstring.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/scripts</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_errors.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/GetCityInfoCommand.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/encoder.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/_speedups.c</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_indent.py</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk/src/CSAir/simplejson-2.2.1/simplejson/tests/test_separators.py</path>
+</paths>
+<msg>Commit</msg>
+</logentry>
+<logentry
+   revision="5323">
+<author>barril1</author>
+<date>2011-09-29T00:07:46.454219Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment2.1/tags</path>
+<path
+   action="A">/barril1/Assignment2.1</path>
+<path
+   action="A">/barril1/Assignment2.1/trunk</path>
+<path
+   action="A">/barril1/Assignment2.1/branches</path>
+</paths>
+<msg>Share project "Assignment2.1" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="4959">
+<author>barril1</author>
+<date>2011-09-28T04:27:21.628573Z</date>
+<paths>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/AllTests.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/GetMapCommand.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/GetStatsCommand.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/Client.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/Graph.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/City.py</path>
+</paths>
+<msg>Added tests...final commit for MP2.1 (hopefully)</msg>
+</logentry>
+<logentry
+   revision="4900">
+<author>barril1</author>
+<date>2011-09-28T02:17:16.710115Z</date>
+<paths>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/Flight.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/Graph.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/City.py</path>
+</paths>
+<msg>Added Flight and City objects.</msg>
+</logentry>
+<logentry
+   revision="4867">
+<author>barril1</author>
+<date>2011-09-28T00:23:33.461746Z</date>
+<paths>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/Graph.py</path>
+</paths>
+<msg>Got rid of magic numbers.</msg>
+</logentry>
+<logentry
+   revision="4866">
+<author>barril1</author>
+<date>2011-09-28T00:05:54.723865Z</date>
+<paths>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/GetStatsCommand.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/Client.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/Graph.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/GetCityInfoCommand.py</path>
+</paths>
+<msg>Polished program a bit.</msg>
+</logentry>
+<logentry
+   revision="4776">
+<author>barril1</author>
+<date>2011-09-27T05:46:04.646330Z</date>
+<paths>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/ListCitiesCommand.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/GetMapCommand.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/GetStatsCommand.py</path>
+<path
+   copyfrom-path="/barril1/trunk/Assignment2.1/src/CSAir/CSAir.py"
+   copyfrom-rev="4743"
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/Client.py</path>
+<path
+   action="M">/barril1/trunk/Assignment2.1/src/CSAir/CSAirUI.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/EventHandler.py</path>
+<path
+   action="D">/barril1/trunk/Assignment2.1/src/CSAir/CSAir.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/Graph.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/QuitCommand.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/GetCityInfoCommand.py</path>
+</paths>
+<msg>Restructured code to reflect Command Pattern.</msg>
+</logentry>
+<logentry
+   revision="4743">
+<author>barril1</author>
+<date>2011-09-27T02:37:46.295291Z</date>
+<paths>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_encode_basestring_ascii.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_unicode.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_pass1.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/scanner.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/scripts/make_docs.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/README.rst</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_pass3.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/CSAirUI.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/CSAir.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/__init__.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/MANIFEST.in</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_check_circular.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/conf.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/index.rst</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/decoder.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_float.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_fail.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/CHANGES.txt</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tool.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/setup.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/map_data.json</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_decode.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_default.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/LICENSE.txt</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/ordered_dict.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_encode_for_html.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_speedups.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_pass2.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_tuple.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/__init__.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/jsonFile.txt</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_decimal.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/__init__.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_namedtuple.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/PKG-INFO</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/.project</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_dump.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/.pydevproject</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/Command.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_recursion.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_scanstring.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/scripts</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_errors.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/encoder.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/_speedups.c</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_indent.py</path>
+<path
+   action="A">/barril1/trunk/Assignment2.1/src/CSAir/simplejson-2.2.1/simplejson/tests/test_separators.py</path>
+</paths>
+<msg>Committed working copy of Assignment 2.1.</msg>
+</logentry>
+<logentry
+   revision="4742">
+<author>barril1</author>
+<date>2011-09-27T02:37:22.271317Z</date>
+<paths>
+<path
+   action="A">/barril1/trunk/Assignment2.1</path>
+<path
+   action="A">/barril1/trunk</path>
+</paths>
+<msg>Share project "Assignment2.1" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="4100">
+<author>barril1</author>
+<date>2011-09-22T00:50:02.382911Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/README.txt</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolverController</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/tests/AllTests.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolverController/Controller.java</path>
+</paths>
+<msg>Added Controller to architecture. Updated README.</msg>
+</logentry>
+<logentry
+   revision="3919">
+<author>barril1</author>
+<date>2011-09-21T06:24:10.070511Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/Func.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Heuristic.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/Scheme.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/tests/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Location.java</path>
+</paths>
+<msg>Implemented Func and Scheme enums.</msg>
+</logentry>
+<logentry
+   revision="3908">
+<author>barril1</author>
+<date>2011-09-21T05:23:53.848819Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.3/trunk/README.txt</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/merged.bmp</path>
+</paths>
+<msg>Added README.txt, which includes Manual Test Plan For View.</msg>
+</logentry>
+<logentry
+   revision="3890">
+<author>barril1</author>
+<date>2011-09-21T04:43:00.815252Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/tests/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Location.java</path>
+</paths>
+<msg>Added GUI Controller tests.</msg>
+</logentry>
+<logentry
+   revision="3867">
+<author>barril1</author>
+<date>2011-09-21T03:06:55.210931Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+</paths>
+<msg>Added comments.</msg>
+</logentry>
+<logentry
+   revision="3864">
+<author>barril1</author>
+<date>2011-09-21T02:24:27.090127Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/merged.bmp</path>
+</paths>
+<msg>Refactored code structure.</msg>
+</logentry>
+<logentry
+   revision="3766">
+<author>barril1</author>
+<date>2011-09-20T03:09:35.296384Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/MazeRunner.java</path>
+</paths>
+<msg>Allow multiple paths on image.</msg>
+</logentry>
+<logentry
+   revision="3765">
+<author>barril1</author>
+<date>2011-09-20T03:06:01.591324Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/MazeRunner.java</path>
+</paths>
+<msg>Allowed multiple applications of algorithm.</msg>
+</logentry>
+<logentry
+   revision="3764">
+<author>barril1</author>
+<date>2011-09-20T02:54:29.544624Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/merged.bmp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3762">
+<author>barril1</author>
+<date>2011-09-20T02:48:19.903540Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/merged.bmp</path>
+</paths>
+<msg>Implemented options button.</msg>
+</logentry>
+<logentry
+   revision="3754">
+<author>barril1</author>
+<date>2011-09-20T01:54:47.837293Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+</paths>
+<msg>Removed print statement.</msg>
+</logentry>
+<logentry
+   revision="3753">
+<author>barril1</author>
+<date>2011-09-20T01:53:58.223192Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/merged.bmp</path>
+</paths>
+<msg>FIxed error.</msg>
+</logentry>
+<logentry
+   revision="3748">
+<author>barril1</author>
+<date>2011-09-20T01:44:48.625354Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/merged.bmp</path>
+</paths>
+<msg>Fixed minor error.</msg>
+</logentry>
+<logentry
+   revision="3747">
+<author>barril1</author>
+<date>2011-09-20T01:42:11.265698Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/merged.bmp</path>
+</paths>
+<msg>Implemented merge button.</msg>
+</logentry>
+<logentry
+   revision="3733">
+<author>barril1</author>
+<date>2011-09-20T00:42:32.152386Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Location.java</path>
+</paths>
+<msg>Implemented threshold button.</msg>
+</logentry>
+<logentry
+   revision="3599">
+<author>barril1</author>
+<date>2011-09-17T19:56:45.948883Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/MazeRunner.java</path>
+</paths>
+<msg>Implemented setThreshold function in Maze class.</msg>
+</logentry>
+<logentry
+   revision="3598">
+<author>barril1</author>
+<date>2011-09-17T19:34:49.417965Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/MazeRunner.java</path>
+</paths>
+<msg>Implemented color button.</msg>
+</logentry>
+<logentry
+   revision="3597">
+<author>barril1</author>
+<date>2011-09-17T18:54:01.789863Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+</paths>
+<msg>Implemented factors button.</msg>
+</logentry>
+<logentry
+   revision="3596">
+<author>barril1</author>
+<date>2011-09-17T18:43:29.704064Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+</paths>
+<msg>Implemented heuristic button.</msg>
+</logentry>
+<logentry
+   revision="3592">
+<author>barril1</author>
+<date>2011-09-17T17:37:47.599429Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+</paths>
+<msg>Implemented setStart and setGoal.</msg>
+</logentry>
+<logentry
+   revision="3577">
+<author>barril1</author>
+<date>2011-09-17T04:44:44.828925Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/MazeSolver.bmp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3576">
+<author>barril1</author>
+<date>2011-09-17T04:38:31.175895Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.1/saved.bmp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3575">
+<author>barril1</author>
+<date>2011-09-17T04:38:15.189046Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/MountainView.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/allblack.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/PyramidPeak.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/invalid.png</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/maze0.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/RedWoodPoint.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/maze1.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/mountains.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/Maze3.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/Tahoe.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/colorado.bmp</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/images/SouthTahoe.bmp</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3574">
+<author>barril1</author>
+<date>2011-09-17T04:37:54.284414Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2/src/mazesolver</path>
+<path
+   action="D">/barril1/Assignment1.2/images</path>
+</paths>
+<msg>
+</msg>
+</logentry>
+<logentry
+   revision="3571">
+<author>barril1</author>
+<date>2011-09-17T04:20:41.186696Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.3/trunk/src/mazesolver/AllTests.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/tests</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Heuristic.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/InvalidMazeException.java</path>
+<path
+   copyfrom-path="/barril1/Assignment1.3/trunk/src/mazesolver/AllTests.java"
+   copyfrom-rev="3570"
+   action="A">/barril1/Assignment1.3/trunk/src/tests/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolver/NoSolutionException.java</path>
+</paths>
+<msg>Created tests package.</msg>
+</logentry>
+<logentry
+   revision="3570">
+<author>barril1</author>
+<date>2011-09-17T04:01:46.829698Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/AllTests.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/Heuristic.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="M">/barril1/Assignment1.3/trunk/.classpath</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/InvalidMazeException.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/ScalingFactors.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/TotalCostComparator.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/MazeRunner.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/Location.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolver/NoSolutionException.java</path>
+</paths>
+<msg>Implemented solving.</msg>
+</logentry>
+<logentry
+   revision="3567">
+<author>barril1</author>
+<date>2011-09-17T01:13:07.304818Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/.settings</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolverGUI/MazeSolverGUI.java</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/.classpath</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/src/mazesolverGUI</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk/.project</path>
+</paths>
+<msg>Started Assignment1.3.</msg>
+</logentry>
+<logentry
+   revision="3566">
+<author>barril1</author>
+<date>2011-09-17T01:12:48.215764Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.3/tags</path>
+<path
+   action="A">/barril1/Assignment1.3/trunk</path>
+<path
+   action="A">/barril1/Assignment1.3/branches</path>
+</paths>
+<msg>Share project "Assignment1.3" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2863">
+<author>barril1</author>
+<date>2011-09-14T02:55:13.391089Z</date>
+<paths>
+<path
+   copyfrom-path="/barril1/TagTest/trunk/src/tester"
+   copyfrom-rev="2860"
+   action="A">/barril1/TagTest/tags/Application-1.0/src/tester</path>
+<path
+   copyfrom-path="/barril1/TagTest/trunk/.settings"
+   copyfrom-rev="2858"
+   action="A">/barril1/TagTest/tags/Application-1.0/.settings</path>
+<path
+   copyfrom-path="/barril1/TagTest/trunk"
+   copyfrom-rev="2857"
+   action="A">/barril1/TagTest/tags/Application-1.0</path>
+<path
+   copyfrom-path="/barril1/TagTest/trunk/.classpath"
+   copyfrom-rev="2858"
+   action="A">/barril1/TagTest/tags/Application-1.0/.classpath</path>
+<path
+   copyfrom-path="/barril1/TagTest/trunk/.project"
+   copyfrom-rev="2858"
+   action="A">/barril1/TagTest/tags/Application-1.0/.project</path>
+<path
+   copyfrom-path="/barril1/TagTest/trunk/src"
+   copyfrom-rev="2858"
+   action="A">/barril1/TagTest/tags/Application-1.0/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2860">
+<author>barril1</author>
+<date>2011-09-14T02:54:34.226639Z</date>
+<paths>
+<path
+   action="A">/barril1/TagTest/trunk/src/tester</path>
+<path
+   action="A">/barril1/TagTest/trunk/src/tester/TestingNow.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2858">
+<author>barril1</author>
+<date>2011-09-14T02:53:32.005793Z</date>
+<paths>
+<path
+   action="A">/barril1/TagTest/trunk/src</path>
+<path
+   action="A">/barril1/TagTest/trunk/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A">/barril1/TagTest/trunk/.settings</path>
+<path
+   action="A">/barril1/TagTest/trunk/.classpath</path>
+<path
+   action="A">/barril1/TagTest/trunk/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2857">
+<author>barril1</author>
+<date>2011-09-14T02:53:24.421476Z</date>
+<paths>
+<path
+   action="A">/barril1/TagTest/tags</path>
+<path
+   action="A">/barril1/TagTest</path>
+<path
+   action="A">/barril1/TagTest/trunk</path>
+<path
+   action="A">/barril1/TagTest/branches</path>
+</paths>
+<msg>Share project "TagTest" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2856">
+<author>barril1</author>
+<date>2011-09-14T02:52:23.982533Z</date>
+<paths>
+<path
+   action="D">/barril1/TagTesting</path>
+</paths>
+<msg>Del</msg>
+</logentry>
+<logentry
+   revision="2855">
+<author>barril1</author>
+<date>2011-09-14T02:51:48.186732Z</date>
+<paths>
+<path
+   action="A">/barril1/TagTesting/trunk/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A">/barril1/TagTesting/trunk/.settings</path>
+<path
+   action="A">/barril1/TagTesting/trunk/.classpath</path>
+<path
+   action="A">/barril1/TagTesting/trunk/.project</path>
+<path
+   action="A">/barril1/TagTesting/trunk/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2854">
+<author>barril1</author>
+<date>2011-09-14T02:51:41.634014Z</date>
+<paths>
+<path
+   action="A">/barril1/TagTesting/tags</path>
+<path
+   action="A">/barril1/TagTesting</path>
+<path
+   action="A">/barril1/TagTesting/trunk</path>
+<path
+   action="A">/barril1/TagTesting/branches</path>
+</paths>
+<msg>Share project "TagTesting" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2853">
+<author>barril1</author>
+<date>2011-09-14T02:50:04.133892Z</date>
+<paths>
+<path
+   action="D">/barril1/TagTesting</path>
+</paths>
+<msg>Del</msg>
+</logentry>
+<logentry
+   revision="2852">
+<author>barril1</author>
+<date>2011-09-14T02:48:43.209058Z</date>
+<paths>
+<path
+   action="A">/barril1/TagTesting/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A">/barril1/TagTesting/.settings</path>
+<path
+   action="A">/barril1/TagTesting/.classpath</path>
+<path
+   action="A">/barril1/TagTesting/.project</path>
+<path
+   action="A">/barril1/TagTesting/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2851">
+<author>barril1</author>
+<date>2011-09-14T02:48:38.615225Z</date>
+<paths>
+<path
+   action="A">/barril1/TagTesting</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2748">
+<author>barril1</author>
+<date>2011-09-13T02:10:26.167858Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Heuristic.java</path>
+<path
+   action="M">/barril1/Assignment1.2/saved.bmp</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/ScalingFactors.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Final commit.</msg>
+</logentry>
+<logentry
+   revision="2746">
+<author>barril1</author>
+<date>2011-09-12T23:30:15.714697Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Heuristic.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/ScalingFactors.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Cleaned up comments.</msg>
+</logentry>
+<logentry
+   revision="2669">
+<author>barril1</author>
+<date>2011-09-11T23:12:10.429995Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Implemented scheme for mountains/rivers/none/all.</msg>
+</logentry>
+<logentry
+   revision="2667">
+<author>barril1</author>
+<date>2011-09-11T22:55:44.518723Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2/images/RedWoodPoint.bmp</path>
+<path
+   action="A">/barril1/Assignment1.2/images/mountains.bmp</path>
+<path
+   action="M">/barril1/Assignment1.2/saved.bmp</path>
+<path
+   action="A">/barril1/Assignment1.2/images/Tahoe.bmp</path>
+<path
+   action="A">/barril1/Assignment1.2/images/colorado.bmp</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="A">/barril1/Assignment1.2/images/SouthTahoe.bmp</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Location.java</path>
+<path
+   action="A">/barril1/Assignment1.2/images/MountainView.bmp</path>
+<path
+   action="A">/barril1/Assignment1.2/images/PyramidPeak.bmp</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Implemented scaling factors. Added grayscale images.</msg>
+</logentry>
+<logentry
+   revision="2665">
+<author>barril1</author>
+<date>2011-09-11T22:02:16.087438Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Location.java</path>
+</paths>
+<msg>Modularized computeMoveCost().</msg>
+</logentry>
+<logentry
+   revision="2664">
+<author>barril1</author>
+<date>2011-09-11T21:54:14.944076Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Location.java</path>
+</paths>
+<msg>Implemented scaling factors.</msg>
+</logentry>
+<logentry
+   revision="2661">
+<author>barril1</author>
+<date>2011-09-11T21:39:49.362311Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver/ScalingFactors.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Began implementing scaling factors.</msg>
+</logentry>
+<logentry
+   revision="2660">
+<author>barril1</author>
+<date>2011-09-11T20:34:30.464508Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Heuristic.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/AllTests.java</path>
+</paths>
+<msg>Implemented all 5 heuristics.</msg>
+</logentry>
+<logentry
+   revision="2657">
+<author>barril1</author>
+<date>2011-09-11T19:58:43.796897Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Heuristic.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Began implementing Heuristic class.</msg>
+</logentry>
+<logentry
+   revision="2653">
+<author>barril1</author>
+<date>2011-09-11T19:38:55.815839Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver/Heuristic.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Location.java</path>
+</paths>
+<msg>Encapsulated xCoord and yCoord in a Point.</msg>
+</logentry>
+<logentry
+   revision="2651">
+<author>barril1</author>
+<date>2011-09-11T19:17:08.789699Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.2/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Moved solving functionality to MazeRunner.</msg>
+</logentry>
+<logentry
+   revision="2650">
+<author>barril1</author>
+<date>2011-09-11T19:05:53.744510Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.3</path>
+</paths>
+<msg>Share project "Assignment1.3" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2648">
+<author>barril1</author>
+<date>2011-09-11T19:02:47.598030Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.3</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2647">
+<author>barril1</author>
+<date>2011-09-11T19:02:30.032077Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.3</path>
+</paths>
+<msg>Share project "Assignment1.3" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2646">
+<author>barril1</author>
+<date>2011-09-11T18:58:47.469066Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver</path>
+<path
+   action="A">/barril1/Assignment1.2/images/invalid.png</path>
+<path
+   action="A">/barril1/Assignment1.2/saved.bmp</path>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver/InvalidMazeException.java</path>
+<path
+   action="M">/barril1/Assignment1.2/.project</path>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver/MazeRunner.java</path>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver/NoSolutionException.java</path>
+<path
+   action="A">/barril1/Assignment1.2/images/allblack.bmp</path>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver/AllTests.java</path>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver/Maze.java</path>
+<path
+   action="A">/barril1/Assignment1.2/images/maze0.bmp</path>
+<path
+   action="A">/barril1/Assignment1.2/images/maze1.bmp</path>
+<path
+   action="M">/barril1/Assignment1.2/.classpath</path>
+<path
+   action="A">/barril1/Assignment1.2/images/Maze3.bmp</path>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver/TotalCostComparator.java</path>
+<path
+   action="A">/barril1/Assignment1.2/images</path>
+<path
+   action="A">/barril1/Assignment1.2/src/mazesolver/Location.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2645">
+<author>barril1</author>
+<date>2011-09-11T18:58:13.456035Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A">/barril1/Assignment1.2/.settings</path>
+<path
+   action="A">/barril1/Assignment1.2/.classpath</path>
+<path
+   action="A">/barril1/Assignment1.2/.project</path>
+<path
+   action="A">/barril1/Assignment1.2/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2644">
+<author>barril1</author>
+<date>2011-09-11T18:58:05.787105Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2643">
+<author>barril1</author>
+<date>2011-09-11T18:52:57.126999Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2641">
+<author>barril1</author>
+<date>2011-09-11T18:49:28.252310Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2640">
+<author>barril1</author>
+<date>2011-09-11T18:47:46.126129Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2639">
+<author>barril1</author>
+<date>2011-09-11T18:47:11.293387Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2638">
+<author>barril1</author>
+<date>2011-09-11T18:46:21.825258Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2637">
+<author>barril1</author>
+<date>2011-09-11T18:45:18.367042Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2636">
+<author>barril1</author>
+<date>2011-09-11T18:44:47.033877Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2635">
+<author>barril1</author>
+<date>2011-09-11T18:44:36.362100Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2634">
+<author>barril1</author>
+<date>2011-09-11T18:44:09.955442Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2633">
+<author>barril1</author>
+<date>2011-09-11T18:43:30.403037Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2632">
+<author>barril1</author>
+<date>2011-09-11T18:43:10.992491Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2631">
+<author>barril1</author>
+<date>2011-09-11T18:41:50.640571Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2630">
+<author>barril1</author>
+<date>2011-09-11T18:40:39.305365Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2628">
+<author>barril1</author>
+<date>2011-09-11T18:39:12.039672Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A">/barril1/Assignment1.2/.settings</path>
+<path
+   action="A">/barril1/Assignment1.2/saved.bmp</path>
+<path
+   action="A">/barril1/Assignment1.2/.classpath</path>
+<path
+   action="A">/barril1/Assignment1.2/.project</path>
+<path
+   action="A">/barril1/Assignment1.2/src</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2627">
+<author>barril1</author>
+<date>2011-09-11T18:39:07.808021Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="2626">
+<author>barril1</author>
+<date>2011-09-11T18:37:44.719225Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2625">
+<author>barril1</author>
+<date>2011-09-11T18:37:30.120006Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2/Assignment1.2/.project</path>
+</paths>
+<msg>Assignment1.2 First Commit.</msg>
+</logentry>
+<logentry
+   revision="2624">
+<author>barril1</author>
+<date>2011-09-11T18:37:19.383702Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+<path
+   action="A">/barril1/Assignment1.2/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1/Assignment1.2"</msg>
+</logentry>
+<logentry
+   revision="2623">
+<author>barril1</author>
+<date>2011-09-11T18:35:47.011281Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.2</path>
+</paths>
+<msg>Removed</msg>
+</logentry>
+<logentry
+   revision="2622">
+<author>barril1</author>
+<date>2011-09-11T18:32:57.895273Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2/Assignment1.2</path>
+</paths>
+<msg>Share project "Assignment1.2" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1/Assignment1.2"</msg>
+</logentry>
+<logentry
+   revision="2621">
+<author>barril1</author>
+<date>2011-09-11T18:27:11.464938Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2618">
+<author>barril1</author>
+<date>2011-09-11T18:15:33.832228Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2616">
+<author>barril1</author>
+<date>2011-09-11T18:03:31.312295Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2615">
+<author>barril1</author>
+<date>2011-09-11T17:54:41.446074Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/.project</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="2614">
+<author>barril1</author>
+<date>2011-09-11T17:53:37.751061Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.2</path>
+</paths>
+<msg>Created Assignment1.2</msg>
+</logentry>
+<logentry
+   revision="2549">
+<author>barril1</author>
+<date>2011-09-10T03:20:19.309467Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Changed Vector to PriorityQueue.</msg>
+</logentry>
+<logentry
+   revision="2548">
+<author>barril1</author>
+<date>2011-09-10T03:05:18.528919Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Minor change.</msg>
+</logentry>
+<logentry
+   revision="1849">
+<author>barril1</author>
+<date>2011-09-07T23:30:58.653388Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Final commit.</msg>
+</logentry>
+<logentry
+   revision="1844">
+<author>barril1</author>
+<date>2011-09-07T23:15:18.927261Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.1/src/mazesolver/InvalidLocationException.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Finished commenting.</msg>
+</logentry>
+<logentry
+   revision="1830">
+<author>barril1</author>
+<date>2011-09-07T22:23:06.234709Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/InvalidLocationException.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/InvalidMazeException.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/TotalCostComparator.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Added comments, not yet finished.</msg>
+</logentry>
+<logentry
+   revision="1459">
+<author>barril1</author>
+<date>2011-09-05T20:51:16.794617Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Added additional maze constructor. Modularized Maze constructors.</msg>
+</logentry>
+<logentry
+   revision="1457">
+<author>barril1</author>
+<date>2011-09-05T20:42:48.312315Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1/saved.bmp</path>
+<path
+   action="D">/barril1/Assignment1.1/src/mazesolver/Quicksort.java</path>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/TotalCostComparator.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Replaced Quicksort with Collections.sort(). Eliminated redundant variables (xStart, yStart, etc.) that are already contained in Location objects.</msg>
+</logentry>
+<logentry
+   revision="1431">
+<author>barril1</author>
+<date>2011-09-05T06:27:34.091730Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/Quicksort.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Complete functionality.
+Added quicksort class - still have to cite it.</msg>
+</logentry>
+<logentry
+   revision="1419">
+<author>barril1</author>
+<date>2011-09-05T03:38:18.041546Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+</paths>
+<msg>Minor clean-up.</msg>
+</logentry>
+<logentry
+   revision="1417">
+<author>barril1</author>
+<date>2011-09-05T03:35:43.754290Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/NoSolutionException.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Version that solves first test.</msg>
+</logentry>
+<logentry
+   revision="1312">
+<author>barril1</author>
+<date>2011-09-03T03:53:48.230955Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Began work on Maze.solve().</msg>
+</logentry>
+<logentry
+   revision="1309">
+<author>barril1</author>
+<date>2011-09-03T03:19:36.772013Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+</paths>
+<msg>Fixed minor error.</msg>
+</logentry>
+<logentry
+   revision="1308">
+<author>barril1</author>
+<date>2011-09-03T03:19:10.351601Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Created Maze.locAt().</msg>
+</logentry>
+<logentry
+   revision="1307">
+<author>barril1</author>
+<date>2011-09-03T03:12:03.913120Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/InvalidMazeException.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Implemented everything except Maze.solve().</msg>
+</logentry>
+<logentry
+   revision="1304">
+<author>barril1</author>
+<date>2011-09-03T00:52:37.984978Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1/images/invalid.png</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Implemented Location functions.
+Added invalid.png.</msg>
+</logentry>
+<logentry
+   revision="1303">
+<author>barril1</author>
+<date>2011-09-03T00:24:25.396618Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Last commit before starting implementation of classes.</msg>
+</logentry>
+<logentry
+   revision="1300">
+<author>barril1</author>
+<date>2011-09-02T19:25:18.678039Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/MazeRunner.java</path>
+<path
+   action="D">/barril1/Assignment1.1/src/mazesolver/MazeSolver.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Renamed MazeSolver to MazeRunner. Moved function solveMaze() from MazeRunner to Maze and renamed it solve().</msg>
+</logentry>
+<logentry
+   revision="1289">
+<author>barril1</author>
+<date>2011-09-02T17:58:53.727681Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeSolver.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+</paths>
+<msg>Added test_isStart_isGoal() and test_reached_goal() tests.</msg>
+</logentry>
+<logentry
+   revision="1287">
+<author>barril1</author>
+<date>2011-09-02T17:43:01.192989Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeSolver.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+</paths>
+<msg>Simplified analyze and move functions.</msg>
+</logentry>
+<logentry
+   revision="1116">
+<author>barril1</author>
+<date>2011-09-02T01:30:08.011049Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeSolver.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="A">/barril1/Assignment1.1/images/allblack.bmp</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Added allblack.bmp.</msg>
+</logentry>
+<logentry
+   revision="1012">
+<author>barril1</author>
+<date>2011-09-01T17:52:50.549465Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+</paths>
+<msg>Restructured unit tests.</msg>
+</logentry>
+<logentry
+   revision="1008">
+<author>barril1</author>
+<date>2011-09-01T17:43:09.762894Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1/images/maze0.bmp</path>
+<path
+   action="A">/barril1/Assignment1.1/images/maze1.bmp</path>
+<path
+   action="A">/barril1/Assignment1.1/images/Maze3.bmp</path>
+<path
+   action="A">/barril1/Assignment1.1/images</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+</paths>
+<msg>Random Commit</msg>
+</logentry>
+<logentry
+   revision="942">
+<author>barril1</author>
+<date>2011-09-01T06:43:47.984120Z</date>
+<paths>
+<path
+   action="D">/barril1/Assignment1.1/src/images</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="933">
+<author>barril1</author>
+<date>2011-09-01T06:18:10.970487Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1/src/images/maze0.bmp</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/MazeSolver.java</path>
+<path
+   action="A">/barril1/Assignment1.1/src/images/maze1.bmp</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="A">/barril1/Assignment1.1/src/images/Maze3.bmp</path>
+<path
+   action="M">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/Maze.java</path>
+</paths>
+<msg>Added parameter input, move pricing, and open/closed checking tests.
+Added Maze class and test images.</msg>
+</logentry>
+<logentry
+   revision="675">
+<author>barril1</author>
+<date>2011-08-31T05:22:03.964009Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1/src/images</path>
+<path
+   action="A">/barril1/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A">/barril1/Assignment1.1/.settings</path>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver</path>
+<path
+   action="A">/barril1/Assignment1.1/.classpath</path>
+<path
+   action="A">/barril1/Assignment1.1/.project</path>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/MazeSolver.java</path>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/Location.java</path>
+<path
+   action="A">/barril1/Assignment1.1/src</path>
+<path
+   action="A">/barril1/Assignment1.1/src/mazesolver/AllTests.java</path>
+</paths>
+<msg>-Created MazeSolver and Location
+-Began work on test cases</msg>
+</logentry>
+<logentry
+   revision="674">
+<author>barril1</author>
+<date>2011-08-31T05:21:10.621056Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="656">
+<author>barril1</author>
+<date>2011-08-31T02:44:03.401035Z</date>
+<paths>
+<path
+   action="M">/barril1/HelloWorld/.classpath</path>
+<path
+   action="D">/barril1/HelloWorld/junit-4.9b3.jar</path>
+<path
+   action="A">/barril1/HelloWorld/lib</path>
+<path
+   copyfrom-path="/barril1/HelloWorld/junit-4.9b3.jar"
+   copyfrom-rev="653"
+   action="A">/barril1/HelloWorld/lib/junit-4.9b3.jar</path>
+</paths>
+<msg>Put junit file in lib.</msg>
+</logentry>
+<logentry
+   revision="653">
+<author>barril1</author>
+<date>2011-08-31T02:35:51.736618Z</date>
+<paths>
+<path
+   action="A">/barril1/HelloWorld/junit-4.9b3.jar</path>
+</paths>
+<msg>Added junit-4.9b3.jar file</msg>
+</logentry>
+<logentry
+   revision="616">
+<author>barril1</author>
+<date>2011-08-31T00:44:18.158157Z</date>
+<paths>
+<path
+   action="A">/barril1/HelloWorld/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A">/barril1/HelloWorld/.settings</path>
+<path
+   action="A">/barril1/HelloWorld/.classpath</path>
+<path
+   action="A">/barril1/HelloWorld/src/HelloWorld.java</path>
+<path
+   action="A">/barril1/HelloWorld/.project</path>
+<path
+   action="A">/barril1/HelloWorld/src</path>
+</paths>
+<msg>First commit to SVN from Eclipse.</msg>
+</logentry>
+<logentry
+   revision="615">
+<author>barril1</author>
+<date>2011-08-31T00:43:34.882353Z</date>
+<paths>
+<path
+   action="A">/barril1/HelloWorld</path>
+</paths>
+<msg>Share project "HelloWorld" into "https://subversion.ews.illinois.edu/svn/fa11-cs242/barril1"</msg>
+</logentry>
+<logentry
+   revision="342">
+<author>barril1</author>
+<date>2011-08-27T04:24:44.171991Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment0/libscheduler.c</path>
+</paths>
+<msg>Added comment for job constructor</msg>
+</logentry>
+<logentry
+   revision="341">
+<author>barril1</author>
+<date>2011-08-27T04:20:41.851186Z</date>
+<paths>
+<path
+   action="M">/barril1/Assignment0/libscheduler.c</path>
+</paths>
+<msg>Removed unneeded comments</msg>
+</logentry>
+<logentry
+   revision="340">
+<author>barril1</author>
+<date>2011-08-27T04:18:06.140191Z</date>
+<paths>
+<path
+   action="A">/barril1/Assignment0</path>
+<path
+   action="A">/barril1/Assignment0/libscheduler.c</path>
+</paths>
+<msg>importing libscheduler.c as Assignment 0</msg>
+</logentry>
+<logentry
+   revision="338">
+<author>barril1</author>
+<date>2011-08-27T03:21:05.746437Z</date>
+<paths>
+<path
+   action="M">/barril1/shopping</path>
+</paths>
+<msg>Final Changes</msg>
+</logentry>
+<logentry
+   revision="337">
+<author>barril1</author>
+<date>2011-08-27T03:15:18.793373Z</date>
+<paths>
+<path
+   action="M">/barril1/shopping</path>
+</paths>
+<msg>Ignored the list3.txt from all future commits</msg>
+</logentry>
+<logentry
+   revision="336">
+<author>barril1</author>
+<date>2011-08-27T03:04:03.060616Z</date>
+<paths>
+<path
+   copyfrom-path="/barril1/grocery"
+   copyfrom-rev="335"
+   action="A">/barril1/shopping</path>
+<path
+   action="D">/barril1/grocery</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="335">
+<author>barril1</author>
+<date>2011-08-27T02:58:15.488481Z</date>
+<paths>
+<path
+   action="D">/barril1/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be vegetarian</msg>
+</logentry>
+<logentry
+   revision="334">
+<author>barril1</author>
+<date>2011-08-27T02:56:55.214406Z</date>
+<paths>
+<path
+   action="A">/barril1/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="333">
+<author>barril1</author>
+<date>2011-08-27T02:55:34.040784Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="332">
+<author>barril1</author>
+<date>2011-08-27T02:53:48.539926Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="331">
+<author>barril1</author>
+<date>2011-08-27T02:51:40.591393Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="330">
+<author>barril1</author>
+<date>2011-08-27T02:50:21.773390Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="329">
+<author>barril1</author>
+<date>2011-08-27T02:47:22.777265Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="328">
+<author>barril1</author>
+<date>2011-08-27T02:42:38.237675Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="327">
+<author>barril1</author>
+<date>2011-08-27T02:40:57.732796Z</date>
+<paths>
+<path
+   action="A">/barril1/grocery/list1.txt</path>
+<path
+   action="A">/barril1/grocery/list2.txt</path>
+<path
+   action="A">/barril1/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="326">
+<author>barril1</author>
+<date>2011-08-27T02:35:00.384151Z</date>
+<paths>
+<path
+   action="D">/barril1/grocery</path>
+</paths>
+<msg>restart</msg>
+</logentry>
+<logentry
+   revision="325">
+<author>barril1</author>
+<date>2011-08-27T02:30:40.569737Z</date>
+<paths>
+<path
+   action="D">/barril1/grocery/list1.txt</path>
+<path
+   action="D">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="324">
+<author>barril1</author>
+<date>2011-08-27T02:21:55.933592Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="323">
+<author>barril1</author>
+<date>2011-08-27T02:21:08.720882Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="322">
+<author>barril1</author>
+<date>2011-08-27T02:17:19.666120Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="321">
+<author>barril1</author>
+<date>2011-08-27T02:16:19.502533Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="320">
+<author>barril1</author>
+<date>2011-08-27T02:12:52.344090Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="319">
+<author>barril1</author>
+<date>2011-08-27T02:06:35.676602Z</date>
+<paths>
+<path
+   action="M">/barril1/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="318">
+<author>barril1</author>
+<date>2011-08-27T01:57:39.511591Z</date>
+<paths>
+<path
+   action="A">/barril1/grocery/list1.txt</path>
+<path
+   action="A">/barril1/grocery/list2.txt</path>
+<path
+   action="A">/barril1/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="10">
+<author>root</author>
+<date>2011-08-18T15:38:16.222160Z</date>
+<paths>
+<path
+   action="A">/barril1</path>
+</paths>
+<msg>created directory barril1</msg>
+</logentry>
+</log>
